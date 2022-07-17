@@ -1,0 +1,44 @@
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>APOD to Dropbox</title>
+
+      <link rel="stylesheet" href="/css/styles.css" />
+   </head>
+
+   <body>
+      <div class="context">
+         <h1>Welcome!</h1>
+         <p>
+            This site grabs the NASA Astronomy picture of the day and uploads it
+            to your Dropbox. Just pick a date, authorize your account, and the
+            picture will be uploaded in seconds.
+         </p>
+         <div class="date-form">
+            <form action="date_search" method="get">
+               <fieldset>
+                  <input type="date" id="date" name="date" min="1995-06-16" />
+                  <input type="submit" value="Get image..." />
+               </fieldset>
+            </form>
+         </div>
+      </div>
+
+      <div class="area">
+         <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+         </ul>
+      </div>
+   </body>
+</html>

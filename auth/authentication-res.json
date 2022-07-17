@@ -1,0 +1,9 @@
+{
+  "uid": "359427589",
+  "access_token": "sl.AnZeTbp_McTzbFA2Tf9QyW1ZOy68Ou-IDYq5SzxWW8yCImW8nIBwVjSSFEesLbgZUebtcpodiIZtYTYVtUM18W8zb53MIMa_l2MMUXMR4qU-ZMf1TpDRBYAWLd1FhloWi63gOek",
+  "expires_in": 14400,
+  "token_type": "bearer",
+  "scope": "account_info.read files.content.read files.content.write files.metadata.read",
+  "account_id": "dbid:AABEte-mKzW_iQsr_S9gD_jV_lmofKhhTds",
+  "expiration": "2020-12-15T11:08:41.134Z"
+}
